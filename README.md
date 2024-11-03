@@ -6,5 +6,5 @@
 * NextJS
 * TypeScript
 * Tailwind CSS
-* Sanity
+* Sanity.io
 * Sentry
