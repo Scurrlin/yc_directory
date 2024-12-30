@@ -1,5 +1,5 @@
 # YC Directory
-A platform where emerging startups can gain exposure through free pitch submissions. Built with NextJS, TypeScript, Tailwind CSS, Sanity.io, and Sentry.
+A platform where emerging startups can gain exposure through free pitch submissions.
 
 ![banner_image](bg/homepage.jpg)
 
