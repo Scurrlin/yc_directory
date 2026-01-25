@@ -4,7 +4,7 @@ A platform where emerging startups can gain exposure through free pitch submissi
 ![banner_image](bg/homepage.jpg)
 
 ## Technologies Used
-* NextJS
+* Next.js
 * TypeScript
 * Tailwind CSS
 * Sanity.io
